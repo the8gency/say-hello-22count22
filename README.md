@@ -31,8 +31,8 @@ Whatever I have tried to do in life, I have tried with all my heart to do it wel
 
 ---
 
-### My faverite libraries 
-##### The libraries  that i like to search when I'm stack
+### My favorite libraries!
+##### The libraries  that i like to search when I'm stack.
 
 [![stackfoerflow Badge](https://img.shields.io/badge/-stackoverflow-0e76a8?style=flat-square&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/search?q=attributes+schema+node+js)
 [![W3Schools Badge](https://img.shields.io/badge/W3Schools-21b20f?style=flat-square&logo=google-W3Schools&logoColor=green)](https://www.w3schools.com/about/)
@@ -43,7 +43,7 @@ Whatever I have tried to do in life, I have tried with all my heart to do it wel
 ---
 
 
-### My faverite languages and tools
+### My favorite languages and tools!
 ##### The languages and tool that I like to work with.
 
 
