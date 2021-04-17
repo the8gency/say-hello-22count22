@@ -12,7 +12,7 @@ I'm  Chiok Zechariah, I go by patrick, I'm from south sudan, I live in belgium f
 **HOW I FEEL**
  and **ASK MORE QUESTION**
  - :musical_note: &nbsp; I like music 
- - :dancers: &nbsp;Ilike dancing
+ - :dancers: &nbsp;I like dancing
 
 ---
 
